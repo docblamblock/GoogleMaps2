@@ -40,13 +40,12 @@
     <plugin name="cordova-plugin-splashscreen" />
     <plugin name="cordova-plugin-vibration" />
     <plugin name="cordova-plugin-geolocation" />
-    <plugin name="cordova-plugin-googlemaps" />
+
     
     
     
      
-    <param name="AIzaSyB8rV1l8FTlfRXfPLR5HJ5Ev2sDJ-MqLKk" value="xyz" />
- 
+   
 
 
     <!-- Third party plugins -->
